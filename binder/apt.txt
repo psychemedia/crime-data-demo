@@ -1,0 +1,5 @@
+#Handle: Could not find libspatialindex_c library file
+python3-rtree
+
+spatialite-bin
+libsqlite3-mod-spatialite
