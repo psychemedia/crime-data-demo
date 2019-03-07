@@ -6,3 +6,5 @@ datasette-cluster-map
 pandas
 xlrd
 geopandas
+
+csvs-to-sqlite
