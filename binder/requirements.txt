@@ -8,3 +8,5 @@ xlrd
 geopandas
 
 csvs-to-sqlite
+
+police-api-client
