@@ -7,6 +7,9 @@ pandas
 xlrd
 geopandas
 
+cartopy
+geoplot
+
 csvs-to-sqlite
 
 police-api-client
