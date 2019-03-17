@@ -10,6 +10,8 @@ geopandas
 cartopy
 geoplot
 
+geovoronoi
+
 csvs-to-sqlite
 
 police-api-client
