@@ -12,6 +12,11 @@ geoplot
 
 geovoronoi
 
+
+#Utility
+geojson_rewind
+
+
 csvs-to-sqlite
 
 police-api-client
