@@ -5,7 +5,7 @@ datasette-cluster-map
 
 pandas
 xlrd
-geopandas
+geopandas==0.4.0
 
 cartopy
 geoplot
