@@ -1,5 +1,6 @@
 osmnx
 folium
+ipyleaflet
 datasette
 datasette-cluster-map
 
