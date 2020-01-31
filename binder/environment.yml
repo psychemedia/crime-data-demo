@@ -1,16 +1,18 @@
-- cartopy
-- pip
-- pip:
-  - osmnx
-  - folium
-  - ipyleaflet
-  - datasette
-  - datasette-cluster-map
+name: binder-env
+dependencies:
+  - cartopy
   - pandas
-  - xlrd
   - geopandas
-  - geoplot
-  - geovoronoi
-  - geojson_rewind
-  - csvs-to-sqlite
-  - police-api-client
+  - pip
+  - pip:
+    - osmnx
+    - folium
+    - ipyleaflet
+    - datasette
+    - datasette-cluster-map
+    - xlrd
+    - geoplot
+    - geovoronoi
+    - geojson_rewind
+    - csvs-to-sqlite
+   - police-api-client
