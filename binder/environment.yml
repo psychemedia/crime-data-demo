@@ -1,4 +1,6 @@
 name: binder-env
+channels:
+  - conda-forge
 dependencies:
   - cartopy
   - pandas
