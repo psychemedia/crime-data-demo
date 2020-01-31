@@ -17,4 +17,4 @@ dependencies:
     - geovoronoi
     - geojson_rewind
     - csvs-to-sqlite
-   - police-api-client
+    - police-api-client
