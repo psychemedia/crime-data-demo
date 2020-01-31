@@ -1,0 +1,16 @@
+- cartopy
+- pip
+- pip:
+  - osmnx
+  - folium
+  - ipyleaflet
+  - datasette
+  - datasette-cluster-map
+  - pandas
+  - xlrd
+  - geopandas
+  - geoplot
+  - geovoronoi
+  - geojson_rewind
+  - csvs-to-sqlite
+  - police-api-client
