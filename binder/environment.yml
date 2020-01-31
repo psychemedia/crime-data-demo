@@ -7,7 +7,7 @@ dependencies:
   - geopandas
   - pip
   - pip:
-    - osmnx
+    - git+https://github.com/gboeing/osmnx.git
     - folium
     - ipyleaflet
     - datasette
